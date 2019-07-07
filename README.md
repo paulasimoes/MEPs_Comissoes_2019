@@ -49,7 +49,7 @@ Website: https://www.europarl.europa.eu/committees/en/empl/home.html
 Twitter: [@EPSocialAffairs](https://twitter.com/EPSocialAffairs)
 
 **Deputados:**
-* [Manuel Pizarro](http://www.europarl.europa.eu/meps/en/197732/MANUEL_PIZARRO/home) (S&D - PS)
+* [Manuel Pizarro](http://www.europarl.europa.eu/meps/en/197732/MANUEL_PIZARRO/home) (S&D - PS) Twitter: [@MPizarroPorto](https://twitter.com/MPizarroPorto)
 * [Sandra Pereira](http://www.europarl.europa.eu/meps/en/197754/SANDRA_PEREIRA/home) (GUE/NGL - PCP)
 
 ## Comissão do Ambiente, da Saúde Pública e da Segurança Alimentar
@@ -88,5 +88,24 @@ Website: https://www.europarl.europa.eu/committees/en/tran/home.html
 Twitter: [@EP_Transport](https://twitter.com/EP_Transport)
 
 **Deputados:**
+* [João Ferreira](http://www.europarl.europa.eu/meps/en/96706/JOAO_FERREIRA/home) (GUE/NGL - PCP) Twitter: [@joao_ferreira33](https://twitter.com/joao_ferreira33)
+* [Cláudia Monteiro de Aguiar](http://www.europarl.europa.eu/meps/en/124734/CLAUDIA_MONTEIRO+DE+AGUIAR/home) (EPP - PSD) Twitter: [@cmonteiroaguiar](https://twitter.com/cmonteiroaguiar)
+
+## Comissão do Desenvolvimento Regional
+
+Website: https://www.europarl.europa.eu/committees/en/regi/home.html
+
+Twitter: [@EP_Regional](https://twitter.com/EP_Regional)
+
+**Deputados:**
+* [Pedro Marques](http://www.europarl.europa.eu/meps/en/197634/PEDRO_MARQUES/home) (S&D - PS) Twitter: [@pmdjmarques](https://twitter.com/pmdjmarques)
+
+## Comissão da Agricultura e do Desenvolvimento Rural
+
+Website: https://www.europarl.europa.eu/committees/en/agri/home.html
+
+Twitter: [@EP_Agriculture](https://twitter.com/EP_Agriculture)
+
+**Deputados:**
+
 * [André Dionísio Bradford](http://www.europarl.europa.eu/meps/en/197640/ANDRE+JORGE_DIONISIO+BRADFORD/home) (S&D - PS) 
-* [Cláudia Monteiro de Aguiar](http://www.europarl.europa.eu/meps/en/124734/CLAUDIA_MONTEIRO+DE+AGUIAR/home) (EPP - PSD)
