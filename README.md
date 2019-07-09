@@ -107,5 +107,54 @@ Website: https://www.europarl.europa.eu/committees/en/agri/home.html
 Twitter: [@EP_Agriculture](https://twitter.com/EP_Agriculture)
 
 **Deputados:**
+* [Álvaro Amaro](http://www.europarl.europa.eu/meps/en/197746/ALVARO_AMARO/home) (EPP - PSD)
+* [André Dionísio Bradford](http://www.europarl.europa.eu/meps/en/197640/ANDRE+JORGE_DIONISIO+BRADFORD/home) (S&D - PS)
+* [Francisco Guerreiro](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN)
 
-* [André Dionísio Bradford](http://www.europarl.europa.eu/meps/en/197640/ANDRE+JORGE_DIONISIO+BRADFORD/home) (S&D - PS) 
+## Comissão das Pescas
+
+Website: https://www.europarl.europa.eu/committees/en/pech/home.html
+
+Twitter: [@EP_Fisheries](https://twitter.com/EP_Fisheries)
+
+**Deputados:**
+* [André Dionísio Bradford](http://www.europarl.europa.eu/meps/en/197640/ANDRE+JORGE_DIONISIO+BRADFORD/home) (S&D - PS)
+* [João Ferreira](http://www.europarl.europa.eu/meps/en/96706/JOAO_FERREIRA/home) (GUE/NGL - PCP) Twitter: [@joao_ferreira33](https://twitter.com/joao_ferreira33)
+* [Francisco Guerreiro](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN)
+* [Cláudia Monteiro de Aguiar](http://www.europarl.europa.eu/meps/en/124734/CLAUDIA_MONTEIRO+DE+AGUIAR/home) (EPP - PSD) Twitter: [@cmonteiroaguiar](https://twitter.com/cmonteiroaguiar)
+
+## Comissão das Liberdades Cívicas, da Justiça e dos Assuntos Internos
+
+Website: https://www.europarl.europa.eu/committees/en/libe/home.html
+
+Twitter: [@EP_Justice](https://twitter.com/EP_Justice)
+
+**Deputados:**
+* [Nuno Melo](http://www.europarl.europa.eu/meps/en/96978/NUNO_MELO/home) (EPP - CDSPP) Twitter: [@NunoMeloCDS](https://twitter.com/NunoMeloCDS)
+* [Paulo Rangel](http://www.europarl.europa.eu/meps/en/96903/PAULO_RANGEL/home) (EPP - PSD) Twitter: [@PauloRangel_pt](https://twitter.com/PauloRangel_pt)
+
+## Comissão dos Assuntos Constitucionais
+
+Website: https://www.europarl.europa.eu/committees/en/afco/home.html
+
+Twitter: [@EPInstitutional](https://twitter.com/EPInstitutional)
+
+**Deputados:**
+* [Paulo Rangel](http://www.europarl.europa.eu/meps/en/96903/PAULO_RANGEL/home) (EPP - PSD) Twitter: [@PauloRangel_pt](https://twitter.com/PauloRangel_pt)
+* [Pedro Silva Pereira](http://www.europarl.europa.eu/meps/en/124747/PEDRO_SILVA+PEREIRA/home) (S&D - PS)
+
+## Comissão dos Direitos da Mulher e da Igualdade dos Géneros
+
+Website: https://www.europarl.europa.eu/committees/en/femm/home.html
+
+Twitter: [@EP_GenderEqual](https://twitter.com/EP_GenderEqual)
+
+**Deputados:**
+* [Sandra Pereira](http://www.europarl.europa.eu/meps/en/197754/SANDRA_PEREIRA/home) (GUE/NGL - PCP)
+
+
+
+
+
+
+
