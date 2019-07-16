@@ -1,4 +1,4 @@
-# Lista dos deputados Portugueses ao Parlamento Europeu por Comissão
+# Lista dos deputados Portugueses ao Parlamento Europeu por Comissão 2019
 
 ## Comissão dos Assuntos Externos
 
