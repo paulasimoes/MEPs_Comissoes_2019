@@ -28,7 +28,7 @@ Twitter: [@EP_Budgets](https://twitter.com/EP_Budgets)
 
 **Deputados:**
 * [José Manuel Fernandes](http://www.europarl.europa.eu/meps/en/96899/JOSE+MANUEL_FERNANDES/home) (EPP - PSD) Twitter: [@JMFernandesEU](https://twitter.com/JMFernandesEU)
-* [Francisco ](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN) Twitter:[@FGuerreiroMEP](https://twitter.com/FGuerreiroMEP)
+* [Francisco Guerreiro](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN) Twitter:[@FGuerreiroMEP](https://twitter.com/FGuerreiroMEP)
 * [Margarida Marques](http://www.europarl.europa.eu/meps/en/197638/L-Onor._MARGARIDA_MARQUES/home) (S&D - PS) Twitter: [@mmargmarques](https://twitter.com/mmargmarques)
 
 ## Comissão dos Assuntos Económicos e Monetários
