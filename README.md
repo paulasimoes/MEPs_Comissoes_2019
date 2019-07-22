@@ -108,7 +108,6 @@ Twitter: [@EP_Agriculture](https://twitter.com/EP_Agriculture)
 
 **Deputados:**
 * [Álvaro Amaro](http://www.europarl.europa.eu/meps/en/197746/ALVARO_AMARO/home) (EPP - PSD)
-* [André Dionísio Bradford](http://www.europarl.europa.eu/meps/en/197640/ANDRE+JORGE_DIONISIO+BRADFORD/home) (S&D - PS)
 * [Francisco Guerreiro](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN)
 
 ## Comissão das Pescas
@@ -118,7 +117,6 @@ Website: https://www.europarl.europa.eu/committees/en/pech/home.html
 Twitter: [@EP_Fisheries](https://twitter.com/EP_Fisheries)
 
 **Deputados:**
-* [André Dionísio Bradford](http://www.europarl.europa.eu/meps/en/197640/ANDRE+JORGE_DIONISIO+BRADFORD/home) (S&D - PS)
 * [João Ferreira](http://www.europarl.europa.eu/meps/en/96706/JOAO_FERREIRA/home) (GUE/NGL - PCP) Twitter: [@joao_ferreira33](https://twitter.com/joao_ferreira33)
 * [Francisco Guerreiro](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN)
 * [Cláudia Monteiro de Aguiar](http://www.europarl.europa.eu/meps/en/124734/CLAUDIA_MONTEIRO+DE+AGUIAR/home) (EPP - PSD) Twitter: [@cmonteiroaguiar](https://twitter.com/cmonteiroaguiar)
