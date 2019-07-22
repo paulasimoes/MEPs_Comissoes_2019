@@ -28,7 +28,7 @@ Twitter: [@EP_Budgets](https://twitter.com/EP_Budgets)
 
 **Deputados:**
 * [José Manuel Fernandes](http://www.europarl.europa.eu/meps/en/96899/JOSE+MANUEL_FERNANDES/home) (EPP - PSD) Twitter: [@JMFernandesEU](https://twitter.com/JMFernandesEU)
-* [Francisco Guerreiro](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN)
+* [Francisco ](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN) Twitter:[@FGuerreiroMEP](https://twitter.com/FGuerreiroMEP)
 * [Margarida Marques](http://www.europarl.europa.eu/meps/en/197638/L-Onor._MARGARIDA_MARQUES/home) (S&D - PS) Twitter: [@mmargmarques](https://twitter.com/mmargmarques)
 
 ## Comissão dos Assuntos Económicos e Monetários
@@ -108,7 +108,7 @@ Twitter: [@EP_Agriculture](https://twitter.com/EP_Agriculture)
 
 **Deputados:**
 * [Álvaro Amaro](http://www.europarl.europa.eu/meps/en/197746/ALVARO_AMARO/home) (EPP - PSD)
-* [Francisco Guerreiro](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN)
+* [Francisco Guerreiro](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN) Twitter:[@FGuerreiroMEP](https://twitter.com/FGuerreiroMEP)
 
 ## Comissão das Pescas
 
@@ -118,7 +118,7 @@ Twitter: [@EP_Fisheries](https://twitter.com/EP_Fisheries)
 
 **Deputados:**
 * [João Ferreira](http://www.europarl.europa.eu/meps/en/96706/JOAO_FERREIRA/home) (GUE/NGL - PCP) Twitter: [@joao_ferreira33](https://twitter.com/joao_ferreira33)
-* [Francisco Guerreiro](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN)
+* [Francisco Guerreiro](http://www.europarl.europa.eu/meps/en/197645/FRANCISCO_GUERREIRO/home) (Greens/EFA - PAN) Twitter:[@FGuerreiroMEP](https://twitter.com/FGuerreiroMEP)
 * [Cláudia Monteiro de Aguiar](http://www.europarl.europa.eu/meps/en/124734/CLAUDIA_MONTEIRO+DE+AGUIAR/home) (EPP - PSD) Twitter: [@cmonteiroaguiar](https://twitter.com/cmonteiroaguiar)
 
 ## Comissão das Liberdades Cívicas, da Justiça e dos Assuntos Internos
